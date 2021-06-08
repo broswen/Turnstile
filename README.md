@@ -30,7 +30,7 @@ API for a security turnstile, only allows a user to be in one zone at a time.
 ```
 
 
-5. Get current details about the user, including the gate they are.
+5. Get current details about the user, including the gate they are in.
 ```json
 {
     "id": "ID#123456"
